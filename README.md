@@ -1,11 +1,11 @@
-# 🔥 **Om Raghuwanshi** 🔥
+#  **Om Raghuwanshi** 
 
-![Coding Animation](air.gif)
 
 Welcome to my GitHub! 👾
 
 I am a passionate **B.Tech in Cybersecurity** student with a keen interest in **Physics**. I specialize in **3D animation** and building tools for **OSINT (Open-Source Intelligence)**. Constantly learning, experimenting, and pushing the boundaries of technology and creativity. ⚡
 
+![Coding Animation](air.gif)
 
 ---
 
