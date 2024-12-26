@@ -4,6 +4,8 @@ Welcome to my GitHub! 👾
 
 I am a passionate **B.Tech in Cybersecurity** student with a keen interest in **Physics**. I specialize in **3D animation** and building tools for **OSINT (Open-Source Intelligence)**. Constantly learning, experimenting, and pushing the boundaries of technology and creativity. ⚡
 
+<img src="workspaces/0M-R/download (4).gif" alt="Alt Text" width="300" />
+
 ---
 
 ### 🛠️ **What I'm Working On:**
