@@ -1,6 +1,6 @@
 #  **Om Raghuwanshi** 
 
-<img src="air.gif" alt="Transparent Animation" width="700" />
+<img src="air.gif" alt="Transparent Animation" width="500" />
 
 
 Welcome to my GitHub! 👾
