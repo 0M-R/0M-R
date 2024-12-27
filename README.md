@@ -1,4 +1,5 @@
 #  **Om Raghuwanshi** 
+<span style="color:blue">This text is blue.</span>
 
 
 
@@ -12,7 +13,6 @@ I am a passionate **B.Tech in Cybersecurity** student with a keen interest in **
 ---
 
 ### 🛠️ **What I'm Working On:**
-<span style="color:blue">This text is blue.</span>
 - Developing an **OSINT tool** to automate Google dorks and enhance information gathering. 💻🚀
 - Exploring **C programming** and sharpening my problem-solving skills. 🖥️
 - Studying **Physics** and delving into advanced concepts. 📚
