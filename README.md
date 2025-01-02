@@ -13,7 +13,7 @@ I am a passionate **B.Tech in Cybersecurity** student with a keen interest in **
 ---
 
 ### 🛠️ **What I'm Working On:**
-- Developing an **OSINT tool** to automate Google dorks and enhance information gathering. 💻🚀
+- Developing an Personnal **AI** based oprating system . 💻🚀
 - Exploring **C programming** and sharpening my problem-solving skills. 🖥️
 - Studying **Physics** and delving into advanced concepts. 📚
 - Experimenting with **Color Theory** and its application in digital art. 🎨
@@ -22,7 +22,7 @@ I am a passionate **B.Tech in Cybersecurity** student with a keen interest in **
 
 ### 🧠 **Skills & Technologies:**
 - **Cybersecurity** | **OSINT** | **3D Animation** | **Physics**  
-- **Programming Languages**: C, Python, and more.
+- **Programming Languages**: C, Python,SQL,bash,shell and more.
 -----
 
 ### 🌐 **Let's Connect:**
